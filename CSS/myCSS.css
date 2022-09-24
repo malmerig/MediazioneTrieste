@@ -1,5 +1,6 @@
 @import url(https://www.w3schools.com/w3css/4/w3.css);
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;500&display=swap');
 
   body, html {
         height: 100%;
@@ -57,7 +58,7 @@
       h3 {
         letter-spacing: 5px;
         text-transform: uppercase;
-        font: 20px "Quicksand", sans-serif;
+        font: 20px 'Zen Maru Gothic', sans-serif;
         color: #111;
       }
       
