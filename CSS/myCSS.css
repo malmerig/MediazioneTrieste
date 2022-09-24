@@ -11,7 +11,7 @@
       
       h1 {
         letter-spacing: 5px;
-        text-transform: uppercase;
+        text-transform: capitalize;
         font: 600 50px 'Zen Maru Gothic', sans-serif;
         color: #111;
       }
