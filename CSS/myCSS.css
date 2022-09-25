@@ -70,7 +70,13 @@
       }
       
       .box {
-        background-color: rgb(79, 69, 192);
+        background-color: #255699;
+        padding: 18px;
+        position: absolute;
+        left: 0;
+        top: 50%;
+        width: 100%;
+        text-align: center;
       }
 
       /* Turn off parallax scrolling for tablets and phones */
