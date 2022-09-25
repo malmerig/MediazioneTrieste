@@ -12,14 +12,14 @@
       h1 {
         letter-spacing: 5px;
         text-transform: capitalize;
-        font: 900 55px 'Zen Maru Gothic', sans-serif;
+        font: 900 60px 'Zen Maru Gothic', sans-serif;
         color: white;
       }
 
       h2 {
         letter-spacing: 3px;
         text-transform: lowercase;
-        font: 400 30px 'Zen Maru Gothic', sans-serif;
+        font: 400 36px 'Zen Maru Gothic', sans-serif;
         color: #111;
       }
 
