@@ -62,21 +62,11 @@
       }
       
       .caption span.border {
-        background-color: #111;
+        background-color: #255699;
         color: #fff;
         padding: 18px;
         font-size: 25px;
         letter-spacing: 10px;
-      }
-      
-      .box {
-        background-color: #255699;
-        padding: 18px;
-        position: absolute;
-        left: 0;
-        top: 50%;
-        width: 100%;
-        text-align: center;
       }
 
       /* Turn off parallax scrolling for tablets and phones */
