@@ -17,8 +17,8 @@
       }
       h2 {
         letter-spacing: 3px;
-        text-transform: capitalize;
-        font: 400 40px 'Zen Maru Gothic', sans-serif;
+        text-transform: none;
+        font: 400 30px 'Zen Maru Gothic', sans-serif;
         color: #111;
       }
 
