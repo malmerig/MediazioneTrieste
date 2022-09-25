@@ -41,16 +41,6 @@
         background-image: url("https://res.cloudinary.com/assaporami/image/upload/q_auto:eco/e_grayscale/v1664125957/mediazione/Trieste_ysseax.jpg");
         min-height: 400px;
       }
-      
-      .bgimg-3 {
-        background-image: url("https://res.cloudinary.com/assaporami/image/upload/q_auto:eco/v1664119578/mediazione/modulistica_tl6wzm.jpg");
-        min-height: 400px;
-      }
-      
-      .bgimg-4 {
-        background-image: url("https://res.cloudinary.com/assaporami/image/upload/q_auto:eco/v1583938348/architecture/pratiche-edilizie-2000x1000_jkqprp.jpg");
-        min-height: 400px;
-      }
 
       .caption {
         position: absolute;
