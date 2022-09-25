@@ -15,7 +15,13 @@
         font: 600 50px 'Zen Maru Gothic', sans-serif;
         color: #111;
       }
-      
+      h2 {
+        letter-spacing: 3px;
+        text-transform: capitalize;
+        font: 400 40px 'Zen Maru Gothic', sans-serif;
+        color: #111;
+      }
+
       .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
         position: relative;
         opacity: 0.65;
